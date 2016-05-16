@@ -1,0 +1,1 @@
+Copy the gif files from "Activity 9 Starter Code" cards folder to this folder.
